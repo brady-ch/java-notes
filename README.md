@@ -1,2 +1,2 @@
 # Java Reference
-I am writing this as a reference/review for Java while I am reviewing it myself. Not all of this will display correctly with vanilla markdown as I wrote it using the application Obsidian. If you want to view the notes as they were written, clone the repo and open it in Obsidian.
+I am writing this as a reference/review for Java while I am reviewing it myself. Not all of this will display correctly with vanilla markdown as I wrote it using the application Obsidian. If you want to view the notes as they were written, clone the repo and open it in Obsidian. Please note that this is a work in progress.
